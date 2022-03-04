@@ -46,7 +46,7 @@ const aboutMe = {
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=luysmarcm&show_icons=true&title_color=fff&icon_color=f1879d&text_color=9f9f9f&bg_color=151515)
 
 
-## Github Repos 💻
+<!-- ## Github Repos 💻
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luysmarcm&repo=lcmPortafolio&show_owner=true)](https://github.com/luysmarcm/lcmPortafolio)
 
@@ -54,7 +54,7 @@ const aboutMe = {
 
 
 
-
+ -->
 
 
 
