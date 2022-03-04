@@ -6,7 +6,7 @@
 const aboutMe = {
    code: [Javascript, HTML, CSS],
    askMeAbout: ["web dev", "photography"],
-   hobbies:["play chess", "listen music", "reading books"]
+   hobbies:["play chess", "listen music", "reading books"],
    technologies: {
       frontEnd: {
          js: ["React.js"],
