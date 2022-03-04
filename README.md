@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ## About Me 🌕
 
@@ -19,7 +19,7 @@ const aboutMe = {
          orm:[ "Prisma"]
       },
       databases: ["MongoDB", "Postgres"],
-      tools:["Git", "Git Hug"],
+      tools:["Git", "Git Hub"],
       devOps: ["AWS", "Docker🐳", "Nginx"],
       others:["GraphQL", "Apollo"]
    },
