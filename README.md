@@ -1,4 +1,4 @@
-<h1>Hello, I'm Luysmar Developer Front-End 💁🏻‍♀️</h1>
+<h1>Hello, I'm Luysmar Front-End Developer 💁🏻‍♀️</h1>
 
 ## About Me 🌕
 
