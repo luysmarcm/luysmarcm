@@ -44,6 +44,8 @@ const aboutMe = {
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luysmarcm&langs_count=10&theme=tokyonight&layout=compact" alt="Luysmarcm :: Top Langs" /></p>
 
+<!--
+
 ## Profile stats 🚀
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=luysmarcm&show_icons=true&title_color=fff&icon_color=f1879d&text_color=9f9f9f&bg_color=151515)
@@ -56,7 +58,7 @@ currentOccupation: ["open for job opportunities"],
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luysmarcm&repo=letras&show_owner=true)](https://github.com/luysmarcm/letras)
 
-
+-->
 
  -->
 
